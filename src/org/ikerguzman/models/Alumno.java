@@ -1,4 +1,4 @@
-package org.ikerguzman.system;
+package org.ikerguzman.models;
 import org.ikerguzman.models.Persona;
 
 public class Alumno extends Persona {
